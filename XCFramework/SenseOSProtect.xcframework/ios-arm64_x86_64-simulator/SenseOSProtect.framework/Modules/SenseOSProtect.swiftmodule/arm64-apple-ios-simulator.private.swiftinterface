@@ -1,0 +1,54 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SenseOSProtect
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import AdSupport
+import AppTrackingTransparency
+import SystemConfiguration.CaptiveNetwork
+import Contacts
+import CoreBluetooth
+import CoreGraphics
+import CoreLocation
+import CoreTelephony
+import CryptoKit
+import Darwin
+import DeviceActivity
+import ExternalAccessory
+import Foundation
+import LocalAuthentication
+import MachO
+import MapKit
+import MediaPlayer
+import MessageUI
+import Network
+import NetworkExtension
+import ObjectiveC
+import Photos
+import Security
+@_exported import SenseOSProtect
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public class SenseOSProtectConfig {
+  public var installedAppList: [(packageName: Swift.String, packageCode: Swift.String)]
+  public init(installedAppList: [(packageName: Swift.String, packageCode: Swift.String)])
+  @objc deinit
+}
+@objc public protocol SenseOSProtectDelegate {
+  @objc func onFailure(message: Swift.String)
+  @objc func onSuccess(data: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class SenseOSProtect : ObjectiveC.NSObject {
+  public static let shared: SenseOSProtect.SenseOSProtect
+  public static func initSDK(senseConfig: SenseOSProtect.SenseOSProtectConfig?, withDelegate: (any SenseOSProtect.SenseOSProtectDelegate)?)
+  public static func getSenseDetails(withDelegate: (any SenseOSProtect.SenseOSProtectDelegate)?)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class DeviceDetail {
+  public func getDetection(data: Any) -> Swift.Dictionary<Swift.String, Any>
+  @objc deinit
+}

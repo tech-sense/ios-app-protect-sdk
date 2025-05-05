@@ -1,0 +1,11 @@
+framework module SenseOSProtect {
+  umbrella header "SenseOSProtect.h"
+  export *
+
+  module * { export * }
+}
+
+module SenseOSProtect.Swift {
+  header "SenseOSProtect-Swift.h"
+  requires objc
+}
