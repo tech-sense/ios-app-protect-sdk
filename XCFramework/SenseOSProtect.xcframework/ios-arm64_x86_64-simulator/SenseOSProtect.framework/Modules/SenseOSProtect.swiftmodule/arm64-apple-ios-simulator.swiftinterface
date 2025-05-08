@@ -42,8 +42,8 @@ public class SenseOSProtectConfig {
   @objc func onFailure(message: Swift.String)
   @objc func onSuccess(data: Swift.String)
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class SenseOSProtect : ObjectiveC.NSObject {
-  public static let shared: SenseOSProtect.SenseOSProtect
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class SenseOSProtectSDK : ObjectiveC.NSObject {
+  public static let shared: SenseOSProtect.SenseOSProtectSDK
   public static func initSDK(senseConfig: SenseOSProtect.SenseOSProtectConfig?, withDelegate: (any SenseOSProtect.SenseOSProtectDelegate)?)
   public static func getSenseDetails(withDelegate: (any SenseOSProtect.SenseOSProtectDelegate)?)
   @objc deinit

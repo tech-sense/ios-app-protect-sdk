@@ -559,8 +559,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "SenseOSProtect",
-        "printedName": "SenseOSProtect",
+        "name": "SenseOSProtectSDK",
+        "printedName": "SenseOSProtectSDK",
         "children": [
           {
             "kind": "Var",
@@ -569,14 +569,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "SenseOSProtect",
-                "printedName": "SenseOSProtect.SenseOSProtect",
-                "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtect"
+                "name": "SenseOSProtectSDK",
+                "printedName": "SenseOSProtect.SenseOSProtectSDK",
+                "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtectSDK"
               }
             ],
             "declKind": "Var",
-            "usr": "s:14SenseOSProtectAAC6sharedABvpZ",
-            "mangledName": "$s14SenseOSProtectAAC6sharedABvpZ",
+            "usr": "s:14SenseOSProtect0aB3SDKC6sharedACvpZ",
+            "mangledName": "$s14SenseOSProtect0aB3SDKC6sharedACvpZ",
             "moduleName": "SenseOSProtect",
             "static": true,
             "declAttributes": [
@@ -595,14 +595,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "SenseOSProtect",
-                    "printedName": "SenseOSProtect.SenseOSProtect",
-                    "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtect"
+                    "name": "SenseOSProtectSDK",
+                    "printedName": "SenseOSProtect.SenseOSProtectSDK",
+                    "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtectSDK"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14SenseOSProtectAAC6sharedABvgZ",
-                "mangledName": "$s14SenseOSProtectAAC6sharedABvgZ",
+                "usr": "s:14SenseOSProtect0aB3SDKC6sharedACvgZ",
+                "mangledName": "$s14SenseOSProtect0aB3SDKC6sharedACvgZ",
                 "moduleName": "SenseOSProtect",
                 "static": true,
                 "implicit": true,
@@ -653,8 +653,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14SenseOSProtectAAC7initSDK11senseConfig12withDelegateyAA0abF0CSg_AA0abH0_pSgtFZ",
-            "mangledName": "$s14SenseOSProtectAAC7initSDK11senseConfig12withDelegateyAA0abF0CSg_AA0abH0_pSgtFZ",
+            "usr": "s:14SenseOSProtect0aB3SDKC04initC011senseConfig12withDelegateyAA0abF0CSg_AA0abH0_pSgtFZ",
+            "mangledName": "$s14SenseOSProtect0aB3SDKC04initC011senseConfig12withDelegateyAA0abF0CSg_AA0abH0_pSgtFZ",
             "moduleName": "SenseOSProtect",
             "static": true,
             "declAttributes": [
@@ -689,8 +689,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14SenseOSProtectAAC03getA7Details12withDelegateyAA0abF0_pSg_tFZ",
-            "mangledName": "$s14SenseOSProtectAAC03getA7Details12withDelegateyAA0abF0_pSg_tFZ",
+            "usr": "s:14SenseOSProtect0aB3SDKC03getA7Details12withDelegateyAA0abG0_pSg_tFZ",
+            "mangledName": "$s14SenseOSProtect0aB3SDKC03getA7Details12withDelegateyAA0abG0_pSg_tFZ",
             "moduleName": "SenseOSProtect",
             "static": true,
             "declAttributes": [
@@ -701,8 +701,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtect",
-        "mangledName": "$s14SenseOSProtectAAC",
+        "usr": "c:@M@SenseOSProtect@objc(cs)SenseOSProtectSDK",
+        "mangledName": "$s14SenseOSProtect0aB3SDKC",
         "moduleName": "SenseOSProtect",
         "declAttributes": [
           "AccessControl",
@@ -1632,133 +1632,133 @@
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 787,
+      "offset": 793,
       "length": 17,
       "value": "\"SDK initialized\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1083,
+      "offset": 1089,
       "length": 21,
       "value": "\"SDK not initialized\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1347,
+      "offset": 1353,
       "length": 5,
       "value": "\"str\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1379,
+      "offset": 1385,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1390,
+      "offset": 1396,
       "length": 7,
       "value": "\"0.0.1\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1422,
+      "offset": 1428,
       "length": 11,
       "value": "\"detection\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 1846,
+      "offset": 1852,
       "length": 26,
       "value": "\"Failed to serialize data\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "Dictionary",
-      "offset": 2419,
+      "offset": 2425,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 2522,
+      "offset": 2528,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 2537,
+      "offset": 2543,
       "length": 1,
       "value": "\":\/\/\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "BooleanLiteral",
-      "offset": 2624,
+      "offset": 2630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "BooleanLiteral",
-      "offset": 2694,
+      "offset": 2700,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 2900,
+      "offset": 2906,
       "length": 9,
       "value": "\"isFrida\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 2942,
+      "offset": 2948,
       "length": 14,
       "value": "\"isJailbroken\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 2987,
+      "offset": 2993,
       "length": 13,
       "value": "\"isSimulator\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 3037,
+      "offset": 3043,
       "length": 5,
       "value": "\"sim\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 3072,
+      "offset": 3078,
       "length": 5,
       "value": "\"vpn\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 3109,
+      "offset": 3115,
       "length": 22,
       "value": "\"developerModeEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOSProtect\/SenseOSProtect\/SenseOSProtect.swift",
       "kind": "StringLiteral",
-      "offset": 3170,
+      "offset": 3176,
       "length": 15,
       "value": "\"installedApps\""
     }

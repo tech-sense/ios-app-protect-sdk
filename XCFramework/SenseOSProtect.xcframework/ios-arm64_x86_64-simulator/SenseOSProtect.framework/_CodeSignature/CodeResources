@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SenseOSProtect-Swift.h</key>
 		<data>
-		tBIgkY3rTRIqCkQXqoX0T06/fUY=
+		OJqrp9UOwRfg/XyVkaUTVZexGeM=
 		</data>
 		<key>Headers/SenseOSProtect.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		21Gd/ur79iZUTSFXomifGvDX1OM=
+		WdMvapev0J70Ca1fQm/Ug2dF0O4=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+PhyFhx348m63IMa/6iu+iHYfOc=
+		AsbcIsotefLFvtZ7Aon42PuVaro=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+PhyFhx348m63IMa/6iu+iHYfOc=
+		AsbcIsotefLFvtZ7Aon42PuVaro=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dd/O/MWGQAC8+raSYVeCKP6WQlk=
+		Xpg3D4N2cr8Gp0gXJH1unPbCRJs=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		a206pFrsgsPcLpmRCebxH2VeJ8E=
+		eTl0zxNqzdQVoJyykrQlPJ7osxY=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Sl9csVCdJ7Ke2+AVUO4sYw9tJuU=
+		lGVeedpD+i6uKuAJPZIKIXvvCRk=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Sl9csVCdJ7Ke2+AVUO4sYw9tJuU=
+		lGVeedpD+i6uKuAJPZIKIXvvCRk=
 		</data>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gNPoWjuvvRbiuujvylLvGuyLeGE=
+		1VuFuFH5KDVW90iGso8RIhFvtGo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aIouhhd+J+jgargaG7xf9yb8DGxQZie3ia7cjab/fss=
+			uuyFCWBJXR33w4q9hJ31nQcfZMP6wkBmvVK/IoUPbg8=
 			</data>
 		</dict>
 		<key>Headers/SenseOSProtect.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rPf9dRpGc0NEQ0NyCrwCBaNZbLUhRhv6fCaSG7wtGLY=
+			7FN2nqvZge0pFdwz9u0/n2qu3yBTmYRufnMObHVNX6s=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cAminHxTWr6iXJ/OKmyq90w66Jw5LaEMeJNvW38Rtho=
+			UoAg61Q2HMeRub6BdMPFF77IDOS/1qqd3UjVLHAreY4=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cAminHxTWr6iXJ/OKmyq90w66Jw5LaEMeJNvW38Rtho=
+			UoAg61Q2HMeRub6BdMPFF77IDOS/1qqd3UjVLHAreY4=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9N6HzLTMu5R50fc6XBMfCf15sZC5S1CCjeqT36Virkg=
+			Zhf1vYiF45+9Q7s9uqfSr/ILLo/NzB0lQuTCKIG7R1k=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WaGqcxASH2YVN9khNio9F25NIB98QKSaVXoy7V2bkKY=
+			IabZp0yPiMsA/myXsooBG2f3mjDnnrvemNHEVTQCHVI=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BSTJQQdYAyVOPYPukSCX/NAH3kkLkhpMd+IIgeyRX+0=
+			ochlLZHX3Ot+cTU4z8CbPeRbCcPDQ6FupSvH7q75B84=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BSTJQQdYAyVOPYPukSCX/NAH3kkLkhpMd+IIgeyRX+0=
+			ochlLZHX3Ot+cTU4z8CbPeRbCcPDQ6FupSvH7q75B84=
 			</data>
 		</dict>
 		<key>Modules/SenseOSProtect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jp4CMMbV5UhMdhV50377NG/GFZp4wbBak65tGZBDRbc=
+			dkppZ/G7viYtvo5VfuyVp07zdMhXKKfNcAG70dtGrZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
